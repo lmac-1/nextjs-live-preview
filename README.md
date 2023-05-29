@@ -1,6 +1,7 @@
 # Lucy's Repository Notes
 
 This is a repository of the Next.js part of Sanity's "Live Preview with Next.js and Sanity Studio" tutorial.
+Sanity studio part found [here](https://github.com/lmac-1/sanity-live-preview)
 
 ## Resources
 - Tutorial [link](https://www.sanity.io/guides/nextjs-live-preview)
