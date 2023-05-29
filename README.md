@@ -1,3 +1,20 @@
+# Lucy's Repository Notes
+
+This is a repository of the Next.js part of Sanity's "Live Preview with Next.js and Sanity Studio" tutorial.
+
+## Resources
+- Tutorial [link](https://www.sanity.io/guides/nextjs-live-preview)
+- Official repo with final code [link](https://github.com/SimeonGriggs/sanity-nextjs-preview)
+- Walkthrough video [link](https://www.youtube.com/watch?v=sENgsB4AdZw)
+
+## Notes
+- Uses `pages` directory rather than `app`
+- This project has the Sanity Studio hosted separately and not integrated within the same project
+- TypeScript is used in this example but is not required
+- This projects runs on localhost:3000 
+
+# General Next.js Repo Notes
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
