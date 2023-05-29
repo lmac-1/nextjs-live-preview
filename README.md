@@ -13,6 +13,16 @@ This is a repository of the Next.js part of Sanity's "Live Preview with Next.js 
 - TypeScript is used in this example but is not required
 - This projects runs on localhost:3000 
 
+You'll need to add an `env.development` file locally with the following content: 
+
+```
+NEXT_PUBLIC_SANITY_PROJECT_ID=
+NEXT_PUBLIC_SANITY_DATASET=production
+NEXT_PUBLIC_SANITY_API_VERSION=2023-01-01
+```
+
+Your `NEXT_PUBLIC_SANITY_PROJECT_ID` can be found in your Sanity account
+
 # General Next.js Repo Notes
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
